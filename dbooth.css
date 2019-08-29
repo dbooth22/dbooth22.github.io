@@ -1,0 +1,28 @@
+body {
+}
+header {
+	background-color: #034903;
+	background-position: right;
+	background-repeat: no-repeat;
+	height: 100px;
+	padding: 5px;
+	padding-left: 20px;
+	text-align: center;
+	font-family: Verdana,Arial;
+	font-size: 90%
+}
+footer {
+	background-color: #a82424;
+}
+#content {
+	background-color: #b83d14;
+}
+header, footer, #content {
+	border-style: solid;
+	border-width: 1.5px;
+	border-color: aqua;
+}
+.floatImg {
+	float:right;
+	margin: -80px 970px;
+}
